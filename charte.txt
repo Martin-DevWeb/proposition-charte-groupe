@@ -23,3 +23,5 @@ Non sans rire.
 7- Les horaires, c'est pas relatif. Rêve pas mon gars, ou si, mais en dehors des cours.
 
 8- Si tu as un soucis, tu en parles. Tu gardes pas ça pour toi jusqu'à explosion.
+
+9- Une activité de cohésion doit être mise en place.
